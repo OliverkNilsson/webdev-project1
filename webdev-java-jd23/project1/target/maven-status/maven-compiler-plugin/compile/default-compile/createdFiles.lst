@@ -1,0 +1,5 @@
+servlets\StudentsServlet.class
+org\example\project1\resources\JavaEE8Resource.class
+servlets\AttendanceServlet.class
+org\example\project1\JAXRSConfiguration.class
+servlets\CoursesServlet.class
